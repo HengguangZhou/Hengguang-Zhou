@@ -1,11 +1,34 @@
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications(First Author)</h3>
     {% if page.title == "Home" %}
+      <h3 class="fw-bold border-bottom pb-3 mb-5">Publications(First Author)</h3>
       {% for item in site.data.publications.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+          <div class="author">{{ item.authors }}</div>
+          <div class="periodical"><em>{{ item.conference }}</em>
+        <div class="links">
+          {% if item.pdf %} 
+          <a href="{{ item.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          {% endif %}
+          {% if item.code %} 
+          <a href="{{ item.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+          {% endif %}
+          {% if item.page %} 
+          <a href="{{ item.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+          {% endif %}
+          {% if item.bibtex %} 
+          <a href="{{ item.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+          {% endif %}
+          {% if item.notes %} 
+          <strong> <i style="color:#e74d3c">{{ item.notes }}</i></strong>
+          {% endif %}
+          {% if item.others %} 
+          {{ item.others }}
+          {% endif %}
+        </div>
       {% endfor %}
     {% else %}
+      <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
       {% for item in site.data.publications.index %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
           <div class="author">{{ item.authors }}</div>
