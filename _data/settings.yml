@@ -3,10 +3,10 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 social:
-- {icon: 'github', link: 'https://github.com/HengguangZhou'}
-- {icon: 'twitter', link: 'https://x.com/hgzhou42'}
-- {icon: 'linkedin', link: 'www.linkedin.com/in/hengguang-zhou'}
-- {icon: 'cv', link: 'www.linkedin.com/in/hengguang-zhou'}
+- {icon: 'fab fa-github', link: 'https://github.com/HengguangZhou'}
+- {icon: 'fab fa-twitter', link: 'https://x.com/hgzhou42'}
+- {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/hengguang-zhou/'}
+- {icon: 'ai ai-cv', link: 'https://www.linkedin.com/in/hengguang-zhou/'}
 
 contacts:
 - {name: 'Hengguang Zhou', department: 'Computer Science', institution: 'UCLA', email: 'hgzhou42@g.ucla.edu'}
