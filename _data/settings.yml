@@ -1,12 +1,12 @@
 menu:
 - {name: 'publications', url: '/publications'}
-- {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 social:
 - {icon: 'github', link: 'https://github.com/HengguangZhou'}
 - {icon: 'twitter', link: 'https://x.com/hgzhou42'}
 - {icon: 'linkedin', link: 'www.linkedin.com/in/hengguang-zhou'}
+- {icon: 'cv', link: 'www.linkedin.com/in/hengguang-zhou'}
 
 contacts:
 - {name: 'Hengguang Zhou', department: 'Computer Science', institution: 'UCLA', email: 'hgzhou42@g.ucla.edu'}
