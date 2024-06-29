@@ -1,18 +1,18 @@
 featured:
-# - name: 'MOSSBench: Is Your Multimodal Large Language Model Oversensitive to Safe Queries?' 
-#   url: 'https://xirui-li.github.io/MOSSBench/'
-#   authors: Xirui Li*, <strong>Hengguang Zhou*</strong>, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
-#   conference_short: Arxiv,
-#   conference: <strong>(Arxiv)</strong>, 2024.
-#   notes: ARC group present, Under Review}
-  - name: 'Coming soon'
+- name: 'MOSSBench: Is Your Multimodal Large Language Model Oversensitive to Safe Queries?' 
+  url: 'https://turningpoint-ai.github.io/MOSSBench/'
+  pdf: 'https://arxiv.org/pdf/2406.17806'
+  authors: Xirui Li*, <strong>Hengguang Zhou*</strong>, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
+  conference_short: Arxiv,
+  conference: <strong>(Arxiv)</strong>, 2024.
+  notes: TurningPointAI presents present, Under Review}
 
 
 index:
-# - name: 'MOSSBench: Is Your Multimodal Large Language Model Oversensitive to Safe Queries?' 
-#   url: 'https://xirui-li.github.io/MOSSBench/'
-#   authors: Xirui Li*, <strong>Hengguang Zhou*</strong>, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
-#   conference_short: Arxiv,
-#   conference: <strong>(Arxiv)</strong>, 2024.
-#   notes: ARC group present, Under Review}
-  - name: 'Coming soon'
+- name: 'MOSSBench: Is Your Multimodal Large Language Model Oversensitive to Safe Queries?' 
+  url: 'https://turningpoint-ai.github.io/MOSSBench/'
+  pdf: 'https://arxiv.org/pdf/2406.17806'
+  authors: Xirui Li*, <strong>Hengguang Zhou*</strong>, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
+  conference_short: Arxiv,
+  conference: <strong>(Arxiv)</strong>, 2024.
+  notes: TurningPointAI presents present, Under Review}
