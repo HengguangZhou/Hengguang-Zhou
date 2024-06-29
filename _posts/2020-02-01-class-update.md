@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coming soon"
+title: "We presented the first test suite assessing if current MLLMs overreact to benign queries!"
 ---
 
-Sample post.
+We presented the first test suite assessing if current MLLMs overreact to benign queries!
