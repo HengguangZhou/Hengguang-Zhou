@@ -18,3 +18,7 @@ index:
   conference_short: Arxiv,
   conference: <strong>(Arxiv)</strong>, 2024.
   notes: TurningPointAI presents present, Under Review
+- name: 'DeepCCFV: Camera Constraint-Free Multi-View Convolutional Neural Network for 3D Object Retrieval'
+  pdf: 'https://ojs.aaai.org/index.php/AAAI/article/view/4868'
+  authors: Zhengyue Huang, Zhehui Zhao, Hengguang Zhou, Xibin Zhao, Yue Gao
+  conference: AAAI19
