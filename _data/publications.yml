@@ -4,8 +4,8 @@ featured:
   pdf: 'https://arxiv.org/pdf/2406.17806'
   code: 'https://github.com/xirui-li/MOSSBench'
   authors: Xirui Li*, <strong>Hengguang Zhou*</strong>, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
-  conference_short: Arxiv,
-  conference: <strong>(Arxiv)</strong>, 2024.
+  conference_short: ICLR,
+  conference: <strong>ICLR</strong>, 2025.
   notes: TurningPointAI presents present, Under Review
 
 
@@ -15,8 +15,8 @@ index:
   pdf: 'https://arxiv.org/pdf/2406.17806'
   code: 'https://github.com/xirui-li/MOSSBench'
   authors: Xirui Li*, <strong>Hengguang Zhou*</strong>, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
-  conference_short: Arxiv,
-  conference: <strong>(Arxiv)</strong>, 2024.
+  conference_short: ICLR,
+  conference: <strong>ICLR</strong>, 2024.
   notes: TurningPointAI presents present, Under Review
 - name: 'DeepCCFV: Camera Constraint-Free Multi-View Convolutional Neural Network for 3D Object Retrieval'
   pdf: 'https://ojs.aaai.org/index.php/AAAI/article/view/4868'
